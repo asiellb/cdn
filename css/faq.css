@@ -1,0 +1,22 @@
+/*FAQ CSS*/
+body > p {
+  background-color: #9cf;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: 700;
+  margin-bottom: 1em;
+}
+
+p {
+  margin-bottom: 1.25em;
+}
+
+
+/*Table Configuration*/
+.tablefaq {
+	border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
